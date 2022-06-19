@@ -9,14 +9,14 @@
 - 🥅 2022 Goals: Learn as much as I can about Web Development and learn an additional language
 - ⚡ Fun fact: I love sports and all things video gaming.
 
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/iAmStephDaKing#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/iAmStephDaKing#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/stephonbuckhanan#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/stephonbuckhanan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/stephonb32#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/stephonb32#gh-dark-mode-only)
 
 <br />
 
