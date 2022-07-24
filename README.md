@@ -4,7 +4,7 @@
 
 ## I'm a Husband, Father, and Developer!
 
-- 🌱 I’m currently learning at Prime Digital Academy
+- 🌱 Software Engineering Student at Prime Digital Academy
 - 👯 I’m looking to collaborate with other developers on projects
 - 🥅 2022 Goals: Learn as much as I can about Web Development and learn an additional language
 - ⚡ Fun fact: I love sports and all things video gaming.
